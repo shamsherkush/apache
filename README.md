@@ -86,7 +86,7 @@ I wrote and I use this package for my own projects. And, unfortunately, I do not
 
 For instructions on how to use, best practices, templates and other usage information, please visit the [Apache2.4 documentation](http://httpd.apache.org/docs/2.4/).
 
-## Contributing
+## Contributing..
 
 Thanks you for taking the time to contribute. Please fork the repository and make changes as you'd like.
 
